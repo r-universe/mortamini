@@ -3,6 +3,11 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
+[submodule "CMAPSS"]
+	path = CMAPSS
+	url = https://github.com/cran/CMAPSS
+	shallow = true
+	registered = true
 [submodule "hhsmm"]
 	path = hhsmm
 	url = https://github.com/mortamini/hhsmm
